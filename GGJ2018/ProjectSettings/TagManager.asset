@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2464453701
+    locked: 0
+  - name: CloudsLower
+    uniqueID: 2338523599
+    locked: 0
+  - name: Playfield
+    uniqueID: 2245782791
+    locked: 0
+  - name: CloudsHigher
+    uniqueID: 4142319475
+    locked: 0
+  - name: Foreground
+    uniqueID: 3617284301
+    locked: 0
